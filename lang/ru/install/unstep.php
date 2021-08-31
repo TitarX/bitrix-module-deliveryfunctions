@@ -1,0 +1,3 @@
+<?php
+
+$MESS['PERFCODE_DELIVERYFUNCTIONS_MODULE_UNINSTALLED'] = 'Модуль успешно удалён';
